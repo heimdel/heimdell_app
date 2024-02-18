@@ -6,7 +6,7 @@ class StyleText extends StatelessWidget {
   @override
   Widget build(context) {
     return const Text(
-      'I love you Taruna :)',
+      'YO Gaurang :)',
       style: TextStyle(color: Colors.white, fontSize: 30),
     );
   }
