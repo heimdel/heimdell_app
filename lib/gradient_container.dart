@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'package:heimdell_app/style_text.dart';
 
-var startAlignment = Alignment.topLeft;
-var endAlignment = Alignment.bottomRight;
+Alignment startAlignment = Alignment.topLeft;
+Alignment endAlignment = Alignment.bottomRight;
 
 class GradientContainer extends StatelessWidget {
   const GradientContainer({super.key});
